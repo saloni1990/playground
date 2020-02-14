@@ -1,0 +1,8 @@
+{
+  "layout": "blog",
+  "title": "First Blog post",
+  "date": "2020-02-14T11:52:43.368Z",
+  "thumbnail": "/static/images/uploads/saloni.jpg",
+  "rating": 4,
+  "body": "Hello this is my first blog post"
+}
