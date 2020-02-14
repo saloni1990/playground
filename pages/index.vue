@@ -19,8 +19,6 @@
         >
           GitHub
         </a>
-
-        <h1>{{blogPost.title}}</h1>
       </div>
     </div>
   </div>
